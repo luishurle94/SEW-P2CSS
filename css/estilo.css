@@ -1,13 +1,79 @@
-body {
-      font: 400 15px Tahoma, sans-serif;
-      line-height: 1.8;
-      color: #818181;
-      background-color: #f6f6f6;
-  }
-h1 {
-      background-color:#FF5733; 
-      color: #fff;
-      text-transform: uppercase;
-      padding: 100px 25px;
-      text-align: center;     
-  }
+/*esp=001 a=0 b=0 c=1*/
+html{
+    background-color: #044a00;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+/*esp=001 a=0 b=0 c=1*/
+h2, h3, h4, h5, h6{
+    font-family: tahoma, sans-serif;
+    font-weight: bold;
+
+    background-color: #187500;
+    color: papayawhip;
+    margin: 15px;
+    padding: 2px 15px;
+    text-align: left;
+    border-radius: 0.5em;
+}
+/*esp=001 a=0 b=0 c=1*/
+h1{
+    font-family: tahoma, sans-serif;
+    background-color: #187500;
+    color: white;
+    margin: 15px;
+    padding: 10px;
+    font-size: 2em;
+    text-align: center;
+    border-radius: 0.5em;
+}
+
+
+/*esp=001 a=0 b=0 c=1*/
+body{
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    color: navajowhite;
+    margin: 15px;
+    padding: 1px;
+    overflow-x: hidden;
+}
+/*esp=001 a=0 b=0 c=1*/
+header{
+    background-color: yellow;
+    color: black;
+    border-radius: 1.5em;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+
+}
+/*esp=001 a=0 b=0 c=1*/
+a{
+    font-family: tahoma, sans-serif;
+    word-spacing: 1px;
+    text-decoration: none;
+    color: dodgerblue;
+    margin: 1px 15px;
+}
+/*esp=001 a=0 b=0 c=1*/
+footer{
+    color:white;
+}
+/*esp=001 a=0 b=0 c=1*/
+dt{
+    font-weight: bold;
+
+}
+/*esp=010 a=0 b=1 c=0*/
+
+/*esp=001 a=0 b=0 c=1*/
+ul{
+    list-style: none;
+    margin:0;
+    padding: 0;
+}
+/*esp=001 a=0 b=0 c=1*/
+table, th, td {
+    border: 1px solid wheat;
+}
