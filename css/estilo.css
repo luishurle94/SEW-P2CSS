@@ -59,6 +59,7 @@ a{
 /*esp=011 a=0 b=1 c=1*/
 a:visited{
     color: grey;
+    text-decoration-line: underline;
 }
 /*esp=001 a=0 b=0 c=1*/
 footer{
