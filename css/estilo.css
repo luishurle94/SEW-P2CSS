@@ -77,7 +77,6 @@ table, th, td {
     border: 1px solid wheat;
 }
 
-/*esp=001 a=0 b=0 c=1*/
-p{
-    background: rgba(23,0,29,0.85);
+.fondo{
+    background: rgba(0,0,0,0.95);
 }
