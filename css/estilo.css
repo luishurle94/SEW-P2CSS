@@ -48,8 +48,8 @@ header{
     padding: 10px;
 
 }
-/*esp=001 a=0 b=0 c=1*/
-a{
+/*esp=011 a=0 b=1 c=1*/
+a:link{
     font-family: tahoma, sans-serif;
     word-spacing: 1px;
     text-decoration: none;
@@ -59,7 +59,7 @@ a{
 /*esp=011 a=0 b=1 c=1*/
 a:visited{
     color: grey;
-    text-decoration-line: underline;
+    text-decoration: underline;
 }
 /*esp=001 a=0 b=0 c=1*/
 footer{
